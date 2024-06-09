@@ -1,0 +1,9 @@
+.imagenProducto{
+    width: 250px;
+    height: 250px;
+    object-fit: cover; /* Para que la imagen no se deforme y cubra todo el espacio*/
+    display: block; /* Centrarlas */
+    margin: 0px auto;
+
+    
+}
